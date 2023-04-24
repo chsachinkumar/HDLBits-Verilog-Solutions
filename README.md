@@ -6,6 +6,9 @@ This repository contains solutions to the practice problems available on the HDL
 
 Each solution file is named after the corresponding problem number and contains comments explaining the design approach and any assumptions made. You can use these solutions as a reference to compare your own solutions or to learn new techniques.
 
+
+<b>`My Stats:`</b> https://hdlbits.01xz.net/wiki/Special:VlgStats/85BECD511E20B4C1
+
 ------------
 
 
